@@ -11,6 +11,7 @@
 		56E863F52AF971C800FE9457 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E863F42AF971C800FE9457 /* ContentView.swift */; };
 		56E863F72AF971CD00FE9457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56E863F62AF971CD00FE9457 /* Assets.xcassets */; };
 		56E863FA2AF971CD00FE9457 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56E863F92AF971CD00FE9457 /* Preview Assets.xcassets */; };
+		56E864032AF972C400FE9457 /* FlagImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E864022AF972C400FE9457 /* FlagImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		56E863F42AF971C800FE9457 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		56E863F62AF971CD00FE9457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56E863F92AF971CD00FE9457 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		56E864022AF972C400FE9457 /* FlagImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				56E863F22AF971C800FE9457 /* Guess_the_flagApp.swift */,
 				56E863F42AF971C800FE9457 /* ContentView.swift */,
+				56E864022AF972C400FE9457 /* FlagImage.swift */,
 				56E863F62AF971CD00FE9457 /* Assets.xcassets */,
 				56E863F82AF971CD00FE9457 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				56E863F52AF971C800FE9457 /* ContentView.swift in Sources */,
+				56E864032AF972C400FE9457 /* FlagImage.swift in Sources */,
 				56E863F32AF971C800FE9457 /* Guess_the_flagApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
